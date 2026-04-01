@@ -15,3 +15,5 @@ Java 11+
 Selenium WebDriver
 Maven (for dependencies)
 ChromeDriver / GeckoDriver
+
+
